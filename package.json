@@ -1,0 +1,33 @@
+{
+  "name": "claudius",
+  "version": "1.0.0",
+  "description": "Crypto intelligence powered by Claudius for Clawdbot - Zero setup required",
+  "main": "tools/claudius.js",
+  "bin": {
+    "claudius": "./tools/claudius.js"
+  },
+  "keywords": [
+    "claudius",
+    "crypto",
+    "cryptocurrency",
+    "bitcoin",
+    "ethereum",
+    "clawdbot",
+    "chatbot",
+    "ai",
+    "trading",
+    "technical-analysis",
+    "market-intelligence",
+    "blockchain"
+  ],
+  "author": "Claudius AI",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Claudiusaipro/claudius-clawdbot-skill.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Claudiusaipro/claudius-clawdbot-skill/issues"
+  },
+  "homepage": "https://claudiusai.pro"
+}
