@@ -1,12 +1,12 @@
 # Claudius for Clawdbot
 
-> **Get AI-powered crypto intelligence in any messaging app** - No setup, no configuration, just install and ask.
+> **AI-powered crypto intelligence for Clawdbot** - Install once, access from any messaging app.
 
 ---
 
-## 🚀 What is Claudius?
+## 🚀 What is This?
 
-Claudius brings professional-grade crypto market analysis to your favorite messaging apps. Ask questions naturally and get instant insights powered by real-time data and AI.
+A Clawdbot skill that brings Claudius crypto intelligence to your messaging apps. Ask questions naturally through WhatsApp, Telegram, Discord, or any platform Clawdbot supports - get instant AI-powered market analysis, technical indicators, and investment insights.
 
 **What you can ask:**
 - "What's Bitcoin's price?" - Live market prices
@@ -123,7 +123,7 @@ Perfect for regular usage - check prices, analyze coins, and get insights throug
 - Location data
 - Financial data
 
-**Open source integration** - Review the code on [GitHub](https://github.com/Claudiusaipro/claudius-clawdbot-skill) before installing.
+**Open source integration** - Review the code on [GitHub](https://github.com/Claudiusaipro/claudius) before installing.
 
 ---
 
