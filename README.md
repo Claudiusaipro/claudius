@@ -1,42 +1,43 @@
-# Claudius for Clawdbot
+# Claudius for Moltbot
 
-> **AI-powered crypto intelligence for Clawdbot** - Install once, access from any messaging app.
-
----
-
-## 🚀 What is This?
-
-A Clawdbot skill that brings Claudius crypto intelligence to your messaging apps. Ask questions naturally through WhatsApp, Telegram, Discord, or any platform Clawdbot supports - get instant AI-powered market analysis, technical indicators, and investment insights.
-
-**What you can ask:**
-- "What's Bitcoin's price?" - Live market prices
-- "Analyze Ethereum" - Technical analysis with indicators  
-- "Is SOL risky?" - Risk assessment and sentiment
-- "Should I buy AVAX?" - Investment recommendations
-- "Market overview" - Broad market insights
-- "What is RSI?" - Crypto education
-
-**Zero setup required** - Install and start asking immediately.
+> Crypto intelligence for Moltbot - Access Claudius anywhere through Moltbot.
 
 ---
 
-## 📦 Installation
+## What is This?
 
-### Via NPM
+This is a skill for Moltbot that connects your messaging apps to the Claudius intelligence engine. It acts as a bridge: you ask questions in WhatsApp, Telegram, or Discord, Moltbot sends them to this skill, and we return professional-grade crypto analysis.
+
+**You can ask things like:**
+- "What is Bitcoin's price?"
+- "Analyze Ethereum"
+- "Is SOL risky?"
+- "Should I buy AVAX?"
+- "Market overview"
+- "What is RSI?"
+
+There is no complex setup. Install the package and it works out of the box.
+
+---
+
+## Installation
+
+Install the skill globally using npm:
+
 ```bash
 npm install -g claudius
 ```
 
-**That's it!** No API keys, no configuration files, no environment variables.
+That is it. You do not need to configure API keys or environment variables on your machine.
 
 ---
 
-## 💬 How It Works
+## How It Works
 
-Once installed via Clawdbot, just ask naturally:
+Once the package is installed and connected to Moltbot, you can interact with it naturally:
 
 ```
-You: What's Bitcoin trading at?
+You: What is Bitcoin trading at?
 Claudius: Bitcoin (BTC): $95,482 (+2.3% today)
 
 You: Should I buy ETH right now?
@@ -47,9 +48,9 @@ Claudius understands context and responds with detailed, actionable insights.
 
 ---
 
-## 🌐 Works Everywhere
+## Supported Platforms
 
-Access Claudius from any messaging platform supported by Clawdbot:
+You can access Claudius from any messaging platform supported by Moltbot, including:
 - WhatsApp
 - Telegram
 - Discord
@@ -58,91 +59,82 @@ Access Claudius from any messaging platform supported by Clawdbot:
 - iMessage
 - Microsoft Teams
 
-**One skill, unlimited access.**
-
 ---
 
-## ✨ What You Get
+## Features
 
-### **Real-Time Market Data**
+### Real-Time Market Data
 Live prices, 24h changes, volume, and market cap across 1000+ cryptocurrencies.
 
-### **Technical Analysis**
-Full indicator suite: RSI, MACD, EMA, SMA, Bollinger Bands, Stochastic, and 15+ more.
+### Technical Analysis
+Full indicator suite including RSI, MACD, EMA, SMA, Bollinger Bands, Stochastic, and many more.
 
-### **Risk Assessment**
+### Risk Assessment
 Volatility analysis, market sentiment, derivatives data, and risk scoring.
 
-### **Investment Insights**
+### Investment Insights
 AI-powered recommendations based on technicals, fundamentals, and market conditions.
 
-### **Market Intelligence**
+### Market Intelligence
 Trending coins, top gainers/losers, volume leaders, and sentiment analysis.
 
-### **Crypto Education**
+### Crypto Education
 Learn about indicators, strategies, DeFi, and blockchain technology.
 
 ---
 
-## ⏱️ Fair Usage
+## Fair Usage
 
-**Free tier includes:**
-- **10 queries per minute**
-- **100 queries per day**
-
-Perfect for regular usage - check prices, analyze coins, and get insights throughout the day.
+Fair usage limits apply to prevent abuse. The service is designed for regular personal use—checking prices, analyzing specific coins, and getting insights throughout the day.
 
 ---
 
-## 🎯 What's Supported
+## Capabilities
 
-**Via Messaging Apps** (this skill):
-- ✅ Live crypto prices
-- ✅ Technical analysis with indicators
-- ✅ Market sentiment and trends  
-- ✅ Risk assessments
-- ✅ Investment recommendations
-- ✅ Crypto education
+**Via Messaging Apps:**
+- Live crypto prices
+- Technical analysis with indicators
+- Market sentiment and trends  
+- Risk assessments
+- Investment recommendations
+- Crypto education
 
-**Web App Only** ([app.claudiusai.pro](https://app.claudiusai.pro)):
-- 📊 Interactive price charts
-- 📈 Chart image uploads for analysis
-- 💱 Crypto swaps and exchanges
+**Web App Only:**
+For advanced features like interactive price charts, visual chart analysis, and crypto swaps, visit our dashboard at app.claudiusai.pro.
 
 ---
 
-## 🔒 Privacy & Security
+## Privacy & Security
 
 **What we collect:**
 - Your crypto queries (to provide answers)
-- Your IP address (for rate limiting only)
+- Your IP address (for abuse prevention)
 
-**What we DON'T collect:**
+**What we DO NOT collect:**
 - Personal information
 - Message history
 - Location data
 - Financial data
 
-**Open source integration** - Review the code on [GitHub](https://github.com/Claudiusaipro/claudius) before installing.
+**About the Code**
+This CLI tool acts as an open source bridge. The actual Claudius intelligence engine processes your requests securely on our centralized servers. You can review the bridge code on GitHub before installing.
 
 ---
 
-## 🆘 Support
+## Support
 
-**Need Help?**
-- 📧 Email: [support@claudiusai.pro](mailto:support@claudiusai.pro)
-- 🌐 Website: [claudiusai.pro](https://claudiusai.pro)
+If you need help, you can reach us via email or visit our website:
+- Email: support@claudiusai.pro
+- Website: claudiusai.pro
 
-**For Full Features:**
-- 💻 Web App: [app.claudiusai.pro](https://app.claudiusai.pro)
-- 📚 Docs: [docs.claudiusai.pro](https://claudius-ai.gitbook.io/claudius-ai/)
+For full documentation, visit docs.claudiusai.pro.
 
 ---
 
-## 📄 License
+## License
 
-MIT License - See [LICENSE](LICENSE)
+MIT License - See LICENSE
 
 ---
 
-**Built for crypto traders, by crypto enthusiasts** 🚀✨
+Built for crypto traders, by crypto enthusiasts.
