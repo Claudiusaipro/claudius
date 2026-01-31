@@ -127,8 +127,8 @@ If you need help, you can reach us via email or visit our website:
 - Email: info@claudiusai.pro
 - Website: claudiusai.pro
 
-For full documentation, visit [docs.claudiusai.pro.](https://claudius-ai.gitbook.io/claudius-ai/)
-For Full Features, visit [app.claudiusai.pro](https://app.claudiusai.pro)
+For full documentation, visit [Docs](https://claudius-ai.gitbook.io/claudius-ai/)
+For Full Features, visit [Webapp](https://app.claudiusai.pro)
 ---
 
 ## License
