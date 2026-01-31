@@ -108,7 +108,7 @@ For advanced features like interactive price charts, visual chart analysis, and 
 
 **What we collect:**
 - Your crypto queries (to provide answers)
-- Your IP address (for abuse prevention)
+
 
 **What we DO NOT collect:**
 - Personal information
@@ -124,11 +124,11 @@ This CLI tool acts as an open source bridge. The actual Claudius intelligence en
 ## Support
 
 If you need help, you can reach us via email or visit our website:
-- Email: support@claudiusai.pro
+- Email: info@claudiusai.pro
 - Website: claudiusai.pro
 
-For full documentation, visit docs.claudiusai.pro.
-
+For full documentation, visit [docs.claudiusai.pro.](https://claudius-ai.gitbook.io/claudius-ai/)
+For Full Features, visit [app.claudiusai.pro](https://app.claudiusai.pro)
 ---
 
 ## License
